@@ -33,8 +33,8 @@ However, This is a simple Python implementation of Tic Tac Toe, playable in the 
 Clone this repository and run the script.
 
 ```bash
-git clone https://github.com/Mahnoor-Muhammad-Naeem/tic-tac-toe.git
-cd Tic-Tac-Toe
+git clone https://github.com/Mahnoor-Muhammad-Naeem/Xs-and-Os.git
+cd Xs-and-Os
 python game.py
 ```
 ## Usage
@@ -55,8 +55,9 @@ Continue until a winner is declared or the game is tied.
 The winner was X
 
 ## File Structure
+
 ```bash
-📂 tic-tac-toe
+📂 Xs-and-Os
  ├── game.py  # Main game logic
  ├── README.md  # Project documentation
 ```
